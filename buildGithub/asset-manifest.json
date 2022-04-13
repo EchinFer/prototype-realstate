@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/demo/react/mingrand/static/js/main.dfa5a6e1.chunk.js",
+    "main.js.map": "/demo/react/mingrand/static/js/main.dfa5a6e1.chunk.js.map",
+    "runtime-main.js": "/demo/react/mingrand/static/js/runtime-main.1e53abe0.js",
+    "runtime-main.js.map": "/demo/react/mingrand/static/js/runtime-main.1e53abe0.js.map",
+    "static/js/2.f2e3018c.chunk.js": "/demo/react/mingrand/static/js/2.f2e3018c.chunk.js",
+    "static/js/2.f2e3018c.chunk.js.map": "/demo/react/mingrand/static/js/2.f2e3018c.chunk.js.map",
+    "index.html": "/demo/react/mingrand/index.html",
+    "precache-manifest.bbba6a15200aa0a409dac951b5a40558.js": "/demo/react/mingrand/precache-manifest.bbba6a15200aa0a409dac951b5a40558.js",
+    "service-worker.js": "/demo/react/mingrand/service-worker.js",
+    "static/js/2.f2e3018c.chunk.js.LICENSE.txt": "/demo/react/mingrand/static/js/2.f2e3018c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e53abe0.js",
+    "static/js/2.f2e3018c.chunk.js",
+    "static/js/main.dfa5a6e1.chunk.js"
+  ]
+}
