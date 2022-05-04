@@ -17,7 +17,7 @@ const Home_V1 = () => {
     return <div>
         <Navbar />
         <Banner />
-        <Service />
+        {/* <Service /> */}
         <Product />
         <Video />
         <ProductV2 />
